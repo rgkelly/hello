@@ -13,14 +13,14 @@ namespace Hello
             Console.WriteLine("Your name:");
             string name = Console.ReadLine();
 
-            Console.WriteLine("How many hours of sleep did you get lats night?");
+            Console.WriteLine("How many hours of sleep did you get last night?");
             int hoursOfSleep = Convert.ToInt32(Console.ReadLine());
 
             Console.WriteLine("Hello, {0}", name);
 
             if (hoursOfSleep < 8)
             {
-                Console.WriteLine("You didn't get very much sleep last night.");
+                Console.WriteLine("You need more sleep.");
             }
             else
             {
