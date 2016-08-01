@@ -1,0 +1,6 @@
+C:\VS2013Source\Projects\Hello\Hello\bin\Debug\Hello.exe.config
+C:\VS2013Source\Projects\Hello\Hello\bin\Debug\Hello.exe
+C:\VS2013Source\Projects\Hello\Hello\bin\Debug\Hello.pdb
+C:\VS2013Source\Projects\Hello\Hello\obj\Debug\Hello.exe
+C:\VS2013Source\Projects\Hello\Hello\obj\Debug\Hello.pdb
+C:\VS2013Source\Projects\Hello\Hello\obj\Debug\Hello.csprojResolveAssemblyReference.cache
